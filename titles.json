@@ -263,6 +263,19 @@
                 "osVersion": "macOS 12.5.1 (21G83)",
                 "renderingApi": "Vulkan on MoltenVK v1.1.11",
                 "log": ""
+            },
+            {
+                "rating": 4,
+                "comment": "Runs at 45-60fps with few minor glitches",
+                "source": "@BOBMOMCOM",
+                "sourceURL": "https://github.com/BOBMOMCOM",
+                "author": "emiyl",
+                "date": "2022-10-23",
+                "version": "2.0-8",
+                "hardware": "MacBook Air (M1, 7-GPU, 8GB)",
+                "osVersion": "macOS 12.6 (21G115)",
+                "renderingApi": "Vulkan on MoltenVK v1.2.0",
+                "log": ""
             }
         ]
     },
