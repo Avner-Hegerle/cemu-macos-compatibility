@@ -278,6 +278,19 @@
         "tests": [
             {
                 "rating": 3,
+                "comment": "Runs fairly well at an average of 18 frames per second, with most textures appearing, however you still need to delete the compiled vulkan pipelines or else it will not boot",
+                "source": "@BOBMOMCOM",
+                "sourceURL": "https://github.com/BOBMOMCOM",
+                "author": "emiyl",
+                "date": "2022-11-18",
+                "version": "2.0-16",
+                "hardware": "MacBook Air (M1, 7-GPU, 8GB)",
+                "osVersion": "macOS 13.0.1 (22A400)",
+                "renderingApi": "Vulkan on MoltenVK v1.2",
+                "log": ""
+            },
+            {
+                "rating": 3,
                 "comment": "Runs very well at average 34 frames per second with my current hardware and settings. Some textures are deformed including guardians, divine beasts, and a few more. Everything else works just fine, so you can still have a ton of fun while you wait for those few bugs to be fixed. Keep in mind often the game will not boot unless you delete the vulkan shaders cache.",
                 "source": "@Durocks",
                 "sourceURL": "https://github.com/Durocks",
