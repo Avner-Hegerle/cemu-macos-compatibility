@@ -329,8 +329,21 @@
         "name": "Mario Kart 8",
         "region": "USA",
         "comment": "",
-        "outdated": true,
+        "outdated": false,
         "tests": [
+            {
+                "rating": 4,
+                "comment": "Runs fairly well at almost 30 fps, but usually about 25 fps, with the only problem being a lot of graphical glitches.",
+                "source": "@Avner-Hegerle",
+                "sourceURL": "https://github.com/Avner-Hegerle",
+                "author": "Avner",
+                "date": "2022-11-27",
+                "version": "2.0-18",
+                "hardware": "MacBook Air (M1, 7-GPU, 8GB)",
+                "osVersion": "macOS 13.0.1 (22A400)",
+                "renderingApi": "Vulkan on MoltenVK v1.2.0",
+                "log": ""
+            },
             {
                 "rating": 1,
                 "comment": "Does not run at all.",
